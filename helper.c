@@ -4,8 +4,7 @@
  * tokenizer - tokenizes input and stores it into an array
  *@input_string: input to be parsed
  *@delim: delimiter to be used, needs to be one character string
- *
- *Return: array of tokens
+ *Return: array of tokens.
  */
 
 char **tokenizer(char *input_string, char *delim)

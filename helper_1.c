@@ -1,9 +1,9 @@
 #include "shell.h"
 
 /**
- *_strcmp - compare two strings
- *@first: first string to be compared
- *@second: second string to be compared
+ *_strcmp - compare two strings.
+ *@first: first string to be compared.
+ *@second: second string to be compared.
  * Return: difference of the two strings.
  */
 
